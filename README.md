@@ -7,6 +7,6 @@ When Linus' new video dropped, I noticed the TechTok that told people to go to p
  
 This is a python program that spams random screenshots from a Russian hosting website that has screenshots people saved on their phones/laptops. 
 
-Feel free to mess around with the timings own your own. 
+Feel free to mess around with the timings on your own. 
 
 DO NOT USE THIS IN PUBLIC CHANNELS OR TO TAKE REVENGE ON SOMEONE.
