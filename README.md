@@ -9,4 +9,4 @@ This is a python program that spams random screenshots from a Russian hosting we
 
 Feel free to mess around with the timings on your own. 
 
-DO NOT USE THIS IN PUBLIC CHANNELS OR TO TAKE REVENGE ON SOMEONE.
+Kindaly do not use this in public channels or for malicious purposes. 
